@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 12,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 14,
+    "workbench.colorTheme": "Noctis Sereno",
+    "python.testing.pytestArgs": [
+        "Tugas"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+} 

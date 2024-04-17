@@ -1,0 +1,8 @@
+data = input("nama: ")
+Angka = int(input("umur: "))
+angka = float(input("tanggal lahir: "))
+biner = bool(int(input("0/1: ")))
+print("data =",data, "tipe =", type(data))
+print("data =",Angka, "tipe =", type(Angka))
+print("data =",angka, "tipe =", type(angka))
+print("data =",biner, "tipe =", type(biner))
