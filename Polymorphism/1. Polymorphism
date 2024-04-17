@@ -1,0 +1,18 @@
+Polymorphism berasal dari kata Yunani "poly" yang 
+berarti banyak, dan "morph" yang berarti bentuk. 
+Dalam konteks pemrograman berorientasi objek, 
+polymorphism mengacu pada kemampuan objek untuk 
+mengambil banyak bentuk, yaitu untuk merespons 
+pemanggilan metode yang sama dengan cara yang
+berbeda tergantung pada objek yang sesuai.
+
+Konsep ini memungkinkan fleksibilitas dan 
+interoperabilitas dalam kode, karena Anda dapat 
+menggunakan metode yang sama pada berbagai objek 
+yang mungkin memiliki perilaku yang berbeda. 
+Polymorphism membantu dalam pembuatan kode yang 
+lebih bersih, lebih efisien, dan lebih mudah 
+dikelola.
+
+Fungsi Polymorphism yang bisa dipakai adalah len(),
+karena bisa dipake dipakai di objek manapun

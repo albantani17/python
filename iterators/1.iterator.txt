@@ -1,0 +1,5 @@
+Iterator adalah objek yang berisi sejumlah nilai yang dapat dihitung.
+
+Iterator adalah objek yang dapat diiterasi, artinya dapat melintasi semua nilai.
+
+Secara teknis, dalam Python, iterator adalah objek yang mengimplementasikan protokol iterator, yang terdiri dari metode iter() dan next().
